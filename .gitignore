@@ -29,3 +29,14 @@ test/server-test-config/ssl-key.pem
 test/server-test-config/plugin-config-data/
 
 docs/built
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/signalk-server/v17
+/.vs/signalk-server/FileContentIndex/190893be-dea1-45b7-b0d2-a8a1edcf5b26.vsidx
+/.vs/signalk-server/FileContentIndex/19d771a5-c4c8-4952-89bb-0fdf10fcbf23.vsidx
+/.vs/signalk-server/FileContentIndex/b2d97e56-5af0-45cf-ae4b-831ee192df77.vsidx
+/.vs/signalk-server/FileContentIndex/84f88fd9-bbfe-4631-bfec-39784a5f0986.vsidx
+/.vs/signalk-server/FileContentIndex
+/.gitignore
+/.gitignore
